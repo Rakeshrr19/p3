@@ -1,4 +1,4 @@
-class python_code
+class python_code.java
 {
     public static void main(String []args)
     {
